@@ -1,87 +1,141 @@
-# Project Title
+# [Site Pessoal](https://github.com/crisgit/site/)
 
-Site Pessoal
+  
 
-## Getting Started
+[Site Pessoal](https://github.com/crisgit/site/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+  
 
-### Prerequisites
+## Preview
 
-What things you need to install the software and how to install them
+  
 
-```
-Give examples
-```
+[![Agency Preview](https://startbootstrap.com/assets/img/templates/agency.jpg)](https://blackrockdigital.github.io/startbootstrap-agency/)
 
-### Installing
+  
 
-A step by step series of examples that tell you how to get a development env running
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
 
-Say what the step will be
+  
 
-```
-Give the example
-```
+## Status
 
-And repeat
+  
 
-```
-until finished
-```
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/LICENSE)
 
-End with an example of getting some data out of the system or using it for a little demo
+[![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
 
-## Running the tests
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-agency.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-agency)
 
-Explain how to run the automated tests for this system
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency)
 
-### Break down into end to end tests
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency?type=dev)
 
-Explain what these tests test and why
+  
 
-```
-Give an example
-```
+## Download and Installation
 
-### And coding style tests
+  
 
-Explain what these tests test and why
+To begin using this template, choose one of the following options to get started:
 
-```
-Give an example
-```
+*  [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/agency/)
 
-## Deployment
+* Install via npm: `npm i startbootstrap-agency`
 
-Add additional notes about how to deploy this on a live system
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
 
-## Built With
+*  [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-agency)
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+  
 
-## Contributing
+## Usage
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+  
 
-## Versioning
+### Basic Usage
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+  
 
-## Authors
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+  
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+### Advanced Usage
 
-## License
+  
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-## Acknowledgments
+  
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+#### Gulp Tasks
+
+  
+
+-  `gulp` the default task that builds everything
+
+-  `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
+
+-  `gulp sass` compiles SCSS files into CSS
+
+-  `gulp minify-css` minifies the compiled CSS file
+
+-  `gulp minify-js` minifies the themes JS file
+
+-  `gulp copy` copies dependencies from node_modules to the vendor directory
+
+  
+
+## Bugs and Issues
+
+  
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+
+  
+
+## Custom Builds
+
+  
+
+You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+
+  
+
+## About
+
+  
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+  
+
+* https://startbootstrap.com
+
+* https://twitter.com/SBootstrap
+
+  
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+  
+
+* http://davidmiller.io
+
+* https://twitter.com/davidmillerskt
+
+* https://github.com/davidtmiller
+
+  
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+  
+
+## Copyright and License
+
+  
+
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
