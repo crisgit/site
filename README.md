@@ -14,7 +14,7 @@
 
   
 
-**[View Live Preview](https://crisgit.github.io/site/img/header-bg.jpg)**
+**[View Live Preview](https://crisgit.github.io/site)**
 
   
 
