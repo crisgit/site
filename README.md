@@ -148,31 +148,32 @@ Após a instalação, execute `npm install` e execute o comando` gulp dev`, que 
 
   
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+Tem um bug ou um problema com este modelo? [Abra um novo problema](https://github.com/BlackrockDigital/startbootstrap-agency/issues)  aqui no GitHub ou deixe um comentário no [página de visão geral do modelo em Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
 
   
 
   
 
-## Custom Builds
+## Construções Personalizadas
 
   
 
   
 
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+Você pode contratar Start Bootstrap para criar uma compilação personalizada de qualquer modelo ou criar algo do zero usando o Bootstrap. Para mais informações, visite o site **[página de serviços de design personalizado](https://startbootstrap.com/bootstrap-design-services/)**.
 
   
 
   
 
-## About
+##  Sobre
 
   
 
   
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+  
+Start Bootstrap é uma biblioteca de código aberto de templates e temas gratuitos do Bootstrap. Todos os templates e temas gratuitos no Start Bootstrap são liberados sob a licença do MIT, o que significa que você pode usá-los para qualquer propósito, mesmo para projetos comerciais.
 
   
 
@@ -188,7 +189,8 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 
   
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+  
+Start Bootstrap foi criado por e é mantido por**[David Miller](http://davidmiller.io/)**, Dono de [Blackrock Digital](http://blackrockdigital.io/).
 
   
 
@@ -207,17 +209,16 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
   
 
   
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-  
-
-  
-
-## Copyright and License
+Start Bootstrap é baseado no [Bootstrap](http://getbootstrap.com/) framework criado por [Mark Otto](https://twitter.com/mdo) e [Jacob Thorton](https://twitter.com/fat).
 
   
 
   
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+## Direitos autorais e licença
+
+  
+
+  
+
+:copyright: Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
