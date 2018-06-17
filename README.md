@@ -52,14 +52,12 @@
 
   
 
-## Download and Installation
+## Download e Instalação
 
   
 
-  
-
-To begin using this template, choose one of the following options to get started:
-
+ 
+Para começar a usar esse modelo, escolha uma das seguintes opções para começar:
   
 
 *  [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/agency/)
@@ -80,69 +78,71 @@ To begin using this template, choose one of the following options to get started
 
   
 
-## Usage
+## Uso
 
   
 
   
 
-### Basic Usage
+### Uso Básico
 
   
 
   
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+  
+Após o download, basta editar os arquivos HTML e CSS incluídos no modelo em seu editor de texto favorito para fazer alterações. Estes são os únicos arquivos que você precisa se preocupar, você pode ignorar todo o resto! Para pré-visualizar as alterações que você faz no código, você pode abrir o arquivo `index.html` no seu navegador.
 
   
 
   
 
-### Advanced Usage
+###  Uso Avançado
 
   
 
   
 
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+  
+Após a instalação, execute `npm install` e execute o comando` gulp dev`, que abrirá uma prévia do modelo no navegador padrão, observará as alterações nos arquivos principais do modelo e atualizará o navegador quando as alterações forem salvas. Você pode ver o `gulpfile.js` para ver quais tarefas estão incluídas no ambiente de desenvolvimento.
 
   
 
   
 
-#### Gulp Tasks
+####   Tarefas Gulp 
 
   
 
   
 
--  `gulp` the default task that builds everything
+-    `gulp` é a tarefa padrão que constrói tudo
 
   
 
--  `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
+-  `gulp dev`   O browserSync abre o projeto no seu navegador padrão e ao vivo recarrega quando as alterações são feitas
 
   
 
--  `gulp sass` compiles SCSS files into CSS
+-  `gulp sass`   compila arquivos SCSS em CSS
 
   
 
--  `gulp minify-css` minifies the compiled CSS file
+-  `gulp minify-css`   Minifica o arquivo CSS compilado
 
   
 
--  `gulp minify-js` minifies the themes JS file
+-  `gulp minify-js`   Minifica o arquivo JS de temas
 
   
 
--  `gulp copy` copies dependencies from node_modules to the vendor directory
+-  `gulp copy` copia dependências de node_modules para o diretório de fornecedores
 
   
 
   
 
-## Bugs and Issues
+##   Erros e Problemas
 
   
 
