@@ -10,11 +10,11 @@
 
   
 
-[![Agency Preview](https://crisgit.github.io/site/img/templates/agency.jpg)](https://blackrockdigital.github.io/startbootstrap-agency/)
+[![Agency Preview](https://crisgit.github.io/site/img/header-bg.jpg)](https://crisgit.github.io/site/)
 
   
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
+**[View Live Preview](https://crisgit.github.io/site/img/header-bg.jpg)**
 
   
 
