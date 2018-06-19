@@ -12,7 +12,7 @@
 
   
 
-[![Agency Preview](https://crisgit.github.io/site/img/header-bg.jpg)](https://crisgit.github.io/site/)
+[![Agency Preview](https://crisgit.github.io/site/img/)](https://crisgit.github.io/site/)
 
   
 
